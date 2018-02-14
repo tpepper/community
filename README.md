@@ -86,6 +86,6 @@ If you want to work on a new idea of relatively small scope:
 [develop a new feature]: https://github.com/kubernetes/features
 [expectations]: contributors/guide/community-expectations.md
 [help wanted]: https://go.k8s.io/help-wanted
-[pull request]: contributors/devel/pull-requests.md
+[pull request]: contributors/guide/pull-requests.md
 
 [![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/CONTRIBUTING.md?pixel)]()
